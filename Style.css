@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+.mdiv{
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: url("https://img.freepik.com/premium-vector/happy-new-year-2020-background-with-clock_41084-442.jpg?w=826");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.container{
+	
+	font-size: 30px;
+}
